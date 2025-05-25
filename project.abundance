@@ -16,6 +16,18 @@
             "uniqueID": 1748169411503,
             "ioValues": [],
             "description": "Connect geometry here to make it available in the next level up. "
+        },
+        {
+            "atomType": "Import",
+            "name": "Import",
+            "x": 0.30507812500000003,
+            "y": 0.2572402044293015,
+            "uniqueID": 1748176215217,
+            "ioValues": [],
+            "description": "Import Atom, let's you choose a type of file to import and use in your design.",
+            "fileName": "furing-strips-plus-transition-strip.stl",
+            "type": "STL",
+            "SVGwidth": 10
         }
     ],
     "allConnectors": [],
